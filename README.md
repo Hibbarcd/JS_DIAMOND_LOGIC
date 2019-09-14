@@ -1,0 +1,1 @@
+# JS_DIAMOND_LOGIC
